@@ -1,0 +1,7 @@
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\RecuperatoriosTP\TP4\Entidades\obj\Debug\Entidades.pdb
