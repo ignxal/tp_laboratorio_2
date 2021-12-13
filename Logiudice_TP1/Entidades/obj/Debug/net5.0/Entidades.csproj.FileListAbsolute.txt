@@ -1,0 +1,12 @@
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\bin\Debug\net5.0\Entidades.deps.json
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\bin\Debug\net5.0\Entidades.dll
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\bin\Debug\net5.0\ref\Entidades.dll
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\bin\Debug\net5.0\Entidades.pdb
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\obj\Debug\net5.0\Entidades.csprojAssemblyReference.cache
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\obj\Debug\net5.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\obj\Debug\net5.0\Entidades.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\obj\Debug\net5.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\obj\Debug\net5.0\Entidades.dll
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\obj\Debug\net5.0\ref\Entidades.dll
+C:\Users\ignac\OneDrive\Escritorio\tp_laboratorio_2\Logiudice_TP1\Entidades\obj\Debug\net5.0\Entidades.pdb
